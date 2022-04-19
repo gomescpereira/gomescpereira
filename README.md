@@ -1,8 +1,8 @@
 
-### Olá! Eu sou o Carlos Eduardo 
+### Olá! Eu sou o Carlos Eduardo
 
- 🔭 Estou trabalhand em  um projeto mobile com React-Native 
- 🌱 Estou estudando atualmente NestJs com Typescript & NextJs - FullStack
+- 🔭 Estou trabalhando em  um projeto mobile com React-Native
+-  🌱 Estou estudando atualmente NestJs com Typescript & NextJs - FullStack
 - 📫 Contate-me no meu email: gomescpereira@gmail.com
 - 👋 Meu profile: https://myprofile-gomescpereira.vercel.app/
 - 😄 Pronouns: ele/dele
